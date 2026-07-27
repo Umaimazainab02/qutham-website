@@ -1,0 +1,12 @@
+body {
+    background-image: url(WhatsApp\ Image\ 2026-07-27\ at\ 7.41.44\ PM.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+
+}
+
+#qutham {
+    font-family: "Lato", Arial, sans-serif;
+}
